@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gramatica.js",
+  "scripts": {
+    "start": "node gramatica.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dannloa",
+  "license": "ISC",
+  "dependencies": {
+    "jison": "^0.4.18"
+  }
+}
